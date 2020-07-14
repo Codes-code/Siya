@@ -51,6 +51,14 @@ class Footer extends React.Component {
 								
 								<i class="big envelope icon"></i>
 							</a>
+							<a
+								className="px-3"
+								href="https://drive.google.com/file/d/1kpnhmsfbe9sUlNpk1Ts4PMZ7PpPtnmrn/view?usp=sharing"
+								target="_blank"
+								rel="noopener noreferrer">
+								
+								<i class="big heart icon"></i>
+							</a>
 						</div>
 					</div>
 					<h5 className="pt-4">Siya Sharma &copy; 2020</h5>
